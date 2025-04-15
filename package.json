@@ -24,7 +24,7 @@
     "commands": [
       {
         "command": "extension.pasteLogify",
-        "title": "Custom Smart Paste"
+        "title": "Paste Logify"
       }
     ],
     "keybindings": [
